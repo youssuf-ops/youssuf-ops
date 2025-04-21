@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @youssuf-ops
-- 👀 I’m interested in partnerships
+- 👀 I’m interested in find a job or freelance work
 - 🌱 I’m currently developing my professional skills
 - 💞️ I’m looking to collaborate on business intelligence 
 
