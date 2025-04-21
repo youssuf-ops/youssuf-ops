@@ -1,6 +1,6 @@
 
 Business Intelligence Specialist - 
-- 👋 Hi, I’m @youssuf-ops
+- 👋 Hi, I’m Youssuf Abdula
 - 👀 I’m interested in find a job or freelance work
 - 🌱 I’m currently developing my professional skills
 - 💞️ I’m looking to collaborate on business intelligence 
