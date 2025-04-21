@@ -1,3 +1,5 @@
+
+Business Intelligence Specialist - 
 - 👋 Hi, I’m @youssuf-ops
 - 👀 I’m interested in find a job or freelance work
 - 🌱 I’m currently developing my professional skills
