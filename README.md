@@ -16,12 +16,12 @@ Principais Ferramentas :
 <br> 
 <h2>Portfólio e Principais Projetos</h2>
 <h3 style="color:#2a7ae2; font-weight:bold;">Análise de Capital Humano</h3>
-<p>O relatório que apresento têm como objetivo fornecer uma visão geral detalhada da força de trabalho de uma empresa "XPTO" Destaquei alguns indicadores para analisar a composição da equipe, identificar tendências e propor ações para otimizar a gestão de pessoas : 
-📌Tamanho e Composição da Equipe
-📌Distribuição Geográfica 
-📌Diversidade de Gênero 
-📌Estrutura Organizacional 
-📌Turnover ( Rotatividade ) 
+<p>O relatório que apresento têm como objetivo fornecer uma visão geral detalhada da força de trabalho de uma empresa "XPTO" Destaquei alguns indicadores para analisar a composição da equipe, identificar tendências e propor ações para otimizar a gestão de pessoas :<br> 
+📌Tamanho e Composição da Equipe  <br> 
+📌Distribuição Geográfica <br> 
+📌Diversidade de Gênero <br> 
+📌Estrutura Organizacional <br>  
+📌Turnover ( Rotatividade )  <br> 
 Em resumo, este exercício revelou uma equipe com um bom nível de estabilidade, mas com oportunidades de melhoria em relação á diversidade de gênero e a distribuição geográfica. 
 A minha recomendação seria investir em programas de desenvolvimento para os colaboradores, promover a diversidade em todos níveis da organização e avaliar a necessidade de expandir a atuação da empresa para outras regiões. 
 
