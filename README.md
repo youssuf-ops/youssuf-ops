@@ -27,7 +27,9 @@ A minha recomendação seria investir em programas de desenvolvimento para os co
 
  Sabemos que o capital humano é o nosso maior ativo..</p>
 
-<img align="left" width="500" src="https://github.com/youssuf-ops/AlbiClick.Portfolio/blob/main/dashboard%20rh.jpg?raw=true">
+<img align="left" width="500" src="https://github.com/youssuf-ops/AlbiClick.Portfolio/blob/main/dashboard%20rh.jpg?raw=true">  
+
+<br> 
 
 
 
