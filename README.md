@@ -2,9 +2,9 @@
 
 - 👋 Hi, I’m Youssuf Abdula
 -  💻 Business Intelligence Specialist 
-- 👀 I’m interested in find a job or freelance work
 - 🌱 I’m currently developing my professional skills
-- 🪄 Actively seeking collaborations in the field of Business Intelligence.
+- 🪄 Eager to apply my skills in collaborative Business Intelligence environments.
+- - 👀 Deeply passionate about data analytics, I'm open to new job or freelance projects.
 
 Principais Ferramentas :
 <div style="display: flex; flex-direction: row;">
