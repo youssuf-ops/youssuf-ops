@@ -8,9 +8,9 @@
 
 Principais Ferramentas :
 <div style="display: flex; flex-direction: row;">
-  <img width="75" src="https://github.com/youssuf-ops/Portfolio/blob/main/linguagens/power%20bi.png?raw=true">
-  <img width="75" src="https://github.com/youssuf-ops/Portfolio/blob/main/linguagens/python.png?raw=true">
-  <img width="75" src="https://github.com/youssuf-ops/Portfolio/blob/main/linguagens/sql.png?raw=true">
+  <img width="75" src="https://github.com/youssuf-ops/AlbiClick.Portfolio/blob/main/power%20bi.png?raw=true">
+  <img width="75" src="https://github.com/youssuf-ops/AlbiClick.Portfolio/blob/main/python.png?raw=true">
+  <img width="75" src="https://github.com/youssuf-ops/AlbiClick.Portfolio/blob/main/sql.png?raw=true">
 </div>
 
 
