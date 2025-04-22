@@ -48,7 +48,7 @@ Próximos Passos/Recomendações : <br>
 📌 Analisar o sucesso de Pinto e compartilhar suas melhores práticas com o restante da equipe.<br> 
 📌 Avaliar a estratégia de mercado para (RU) e explorar o potencial de outros mercados. <br> 
 📌 De acordo com o gráfico 'QTD TOTAL VENDIDA' será preciso monitorar de perto as vendas, pois observa-se uma tendência de crescimento ao longo do período analisado (2009-2011)<br> 
-🪄💻 Posso concluir que esta análise fornece insights valiosos sobre o desempenho de vendas atual. A implementação das recomendações propostas tem o potencial de gerar resultados ainda mais positivos nos próximos meses 
+🪄💻 Posso concluir que esta análise fornece insights valiosos sobre o desempenho de vendas atual. A implementação das recomendações propostas tem o potencial de gerar resultados ainda mais positivos nos próximos meses.
 </p> 
 <img align="left" width="500" src="https://github.com/youssuf-ops/AlbiClick.Portfolio/blob/main/dashboard%20de%20vendas%20.jpg?raw=true">
 
