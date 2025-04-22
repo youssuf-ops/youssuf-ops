@@ -31,7 +31,8 @@ A minha recomendação seria investir em programas de desenvolvimento para os co
 <br> <br> <br> <br>   
 <div>
 <div style="clear:both;"></div> 
- <br> <br> <br> <br> <br> <br> <br> 
+<br> <br> <br> <br> <br> <br> <br> 
+<br>  
 <h2>Análise de Vendas</h2> 
 <h3 style="color:#2a7ae2; font-weight:bold;">Desempenho e Oportunidades</h3>
 <p>Neste estudo verifica-se que a empresa alcançou um volume total de vendas de 1,23M O mercado dos EUA é a principal fonte de receita, liderando significativamente, e o primeiro trimestre demonstrou o desempenho mais forte. 
