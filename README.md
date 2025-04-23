@@ -5,6 +5,7 @@
 - 🌱 I'm currently developing my skills in international trade.
 - 🪄 Eager to apply my skills in collaborative Business Intelligence environments.
 - 👀 Deeply passionate about data analytics, I'm open to new job or freelance projects.
+- 📫 How to get in touch with me: contabilidadeabdula@gmail.com 
 
 Principais Ferramentas :
 <div style="display: flex; flex-direction: row;">
