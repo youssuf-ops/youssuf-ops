@@ -1,17 +1,37 @@
+Youssuf Abdula 👋 | Business Intelligence (BI) & Análise de Dados
 
+Sou um profissional com uma base sólida em Gestão Operacional e Comércio Internacional. Utilizo esta perspetiva multidisciplinar para transformar dados em insights práticos, focados em aumentar a eficiência e a rentabilidade (ROI).
 
-- 👋 Hi, I’m Youssuf Abdula
--  💻 Business Intelligence Specialist. 
-- 🌱 I'm currently developing my skills in international trade.
-- 🪄 Eager to apply my skills in collaborative Business Intelligence environments.
-- 👀 Deeply passionate about data analytics, I'm open to new job or freelance projects.
-- 📫 How to get in touch with me: contabilidadeabdula@gmail.com 
+---
+
+🛠️ Stack Tecnológico e Competências 
+Sendo um profissional de BI, o meu trabalho é suportado por uma combinação de linguagens de programação e ferramentas de visualização, com JavaScript agora no centro da minha automação e integração de dados.
+
+💻 Linguagens de Programação
+JavaScript (Principal): Foco em automação de workflows (e.g., Node.js), desenvolvimento de APIs leves e integração de dashboards interativos.
+
+Python: Pandas, NumPy, Matplotlib (Utilizado para análise estatística aprofundada, limpeza de dados e machine learning básico).
+
+SQL: Consultas complexas, manipulação e gestão de bases de dados (PostgreSQL, MySQL).
+
+📊 Análise e Visualização de Dados
+Business Intelligence (BI): Power BI (Desenvolvimento de Dashboards e Relatórios complexos).
+
+Web Analytics: Google Analytics.
+
+Manipulação de Dados: Excel Avançado.
+
+💼 Conhecimentos de Domínio
+Gestão Operacional e Logística
+Comércio Internacional 
 
 Principais Ferramentas :
-<div style="display: flex; flex-direction: row;">
-  <img width="75" src="https://github.com/youssuf-ops/AlbiClick.Portfolio/blob/main/power%20bi.png?raw=true">
-  <img width="75" src="https://github.com/youssuf-ops/AlbiClick.Portfolio/blob/main/python.png?raw=true">
-  <img width="75" src="https://github.com/youssuf-ops/AlbiClick.Portfolio/blob/main/sql.png?raw=true">
+
+<div style="display: flex; flex-direction: row; justify-content: space-evenly; align-items: center; width: 100%;">
+  <img width="75" src="https://github.com/youssuf-ops/AlbiClick.Portfolio/blob/main/javascript.png?raw=true" alt="JavaScript">
+  <img width="75" src="https://github.com/youssuf-ops/AlbiClick.Portfolio/blob/main/power%20bi.png?raw=true" alt="Power BI">
+  <img width="75" src="https://github.com/youssuf-ops/AlbiClick.Portfolio/blob/main/python.png?raw=true" alt="Python">
+  <img width="75" src="https://github.com/youssuf-ops/AlbiClick.Portfolio/blob/main/sql.png?raw=true" alt="SQL">
 </div>
 
 <br> 
