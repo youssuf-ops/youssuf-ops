@@ -28,7 +28,7 @@ Comércio Internacional
 Principais Ferramentas :
 
 <div style="display: flex; flex-direction: row; justify-content: space-evenly; align-items: center; width: 100%;">
-  <img width="75" src="https://github.com/youssuf-ops/AlbiClick.Portfolio/blob/main/javascript.png?raw=true" alt="JavaScript">
+<!--   <img width="75" src="https://github.com/youssuf-ops/AlbiClick.Portfolio/blob/main/javascript.png?raw=true" alt="JavaScript"> -->
   <img width="75" src="https://github.com/youssuf-ops/AlbiClick.Portfolio/blob/main/power%20bi.png?raw=true" alt="Power BI">
   <img width="75" src="https://github.com/youssuf-ops/AlbiClick.Portfolio/blob/main/python.png?raw=true" alt="Python">
   <img width="75" src="https://github.com/youssuf-ops/AlbiClick.Portfolio/blob/main/sql.png?raw=true" alt="SQL">
