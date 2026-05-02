@@ -2,12 +2,7 @@
 
 🚀 Micro-SaaS Builder | Business Intelligence | Data Automation  
 Founder @ AlbiClick
-
-Sou um profissional com base sólida em Gestão Operacional e Comércio Internacional.  
-Utilizo programação, análise de dados e automação para transformar dados em decisões estratégicas e construir soluções digitais focadas em eficiência e rentabilidade.
-
 ---
-
 # 🚀 Produtos SaaS
 
 🔹 **BeautyTime**  
